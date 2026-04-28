@@ -6,7 +6,7 @@
 
 <br>
 
-> **Everything is hackable. Security is often an illusion.**
+> **Everything is hackable. Security is just an illusion.**
 
 <br>
 
