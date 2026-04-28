@@ -1,45 +1,76 @@
-# CyberEthic
+<div align="center">
+
+<br>
+
+```
+ ██████╗██╗   ██╗██████╗ ███████╗██████╗ ███████╗████████╗██╗  ██╗██╗ ██████╗
+██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝╚══██╔══╝██║  ██║██║██╔════╝
+██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝█████╗     ██║   ███████║██║██║
+██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔══╝     ██║   ██╔══██║██║██║
+╚██████╗   ██║   ██████╔╝███████╗██║  ██║███████╗   ██║   ██║  ██║██║╚██████╗
+ ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝ ╚═════╝
+```
+
+<br>
 
 **Everything is hackable. Security is often an illusion.**
 
-Applied cybersecurity research, digital intelligence, and security tooling.
-We build for real-world applications, not for optics.
+<br>
+
+[![Website](https://img.shields.io/badge/cyberethic.in-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://cyberethic.in)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/company/cyberethic)&nbsp;
+[![Email](https://img.shields.io/badge/Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hello@cyberethic.in)
+
+<br>
+
+</div>
 
 ---
 
-[![Website](https://img.shields.io/badge/cyberethic.in-000000?style=flat-square&logo=vercel&logoColor=white)](https://cyberethic.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/cyberethic)
-[![Email](https://img.shields.io/badge/hello@cyberethic.in-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@cyberethic.in)
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberethicIN&repo=.github&theme=github_dark&hide_border=true&bg_color=0d1117" />
+
+We are a research and product-driven cybersecurity ecosystem.
+
+Not a course platform. Not a hacking brand. A serious engineering organization building tools, intelligence systems, labs, and security research for real-world applications.
+
+Building at the intersection of **offensive research**, **digital intelligence**, and **defensive tooling**.
+
+<br clear="right"/>
 
 ---
 
-## What we build
+<br>
 
-**01 — Cybersecurity Tools**
-Recon, scanning, threat monitoring, and security automation for professionals and researchers.
+<div align="center">
 
-**02 — Digital Intelligence**
-OSINT platforms, footprint analysis, and investigation workflows for lawful intelligence work.
+| | |
+|:---|:---|
+| **Cybersecurity Tools** | Recon, scanning, threat monitoring, security automation |
+| **Digital Intelligence** | OSINT platforms, footprint analysis, investigation workflows |
+| **Labs and Simulations** | Web, API, network, blue team, incident response environments |
+| **Research** | Vulnerability research, threat analysis, attack chain breakdowns |
+| **CTFs and Community** | Capture The Flag events, competitions, university hackathons |
 
-**03 — Labs and Simulations**
-Realistic environments for web, API, network, and incident response skill development.
+</div>
 
-**04 — Research**
-Vulnerability research, threat analysis, attack chain breakdowns, and technical findings.
-
-**05 — CTFs and Community**
-Capture The Flag events, research competitions, and university hackathons.
-
----
-
-## How we work
-
-Product-first. We build tools that solve real problems, not tools that look good in a readme. Every repo here exists because someone needed it.
-
-All research and tooling is intended for authorized security testing, education, and professional use only. Responsible disclosure is non-negotiable.
-
-`ethical use` `responsible disclosure` `research integrity` `defensive focus`
+<br>
 
 ---
 
-<sub>CyberEthic — Applied Cybersecurity, Digital Intelligence & Research Platform</sub>
+<br>
+
+```
+All tools and research published here are intended for authorized security
+testing, education, and professional use only.
+
+Unauthorized use against systems you do not own or have explicit permission
+to test is illegal. CyberEthic does not condone misuse of any kind.
+```
+
+<br>
+
+<div align="center">
+
+<sub>Applied Cybersecurity · Digital Intelligence · Research Platform</sub>
+
+</div>
