@@ -2,15 +2,16 @@
 
 <br>
 
-# CYBERETHIC
+# CyberEthic
 
 <br>
 
-**Everything is hackable. Security is often an illusion.**
+> **Everything is hackable. Security is often an illusion.**
 
 <br>
 
-*Applied Cybersecurity · Digital Intelligence · Security Research*
+Applied cybersecurity research, digital intelligence, and security tooling —
+built for the real world, not for optics.
 
 <br>
 
@@ -24,9 +25,64 @@
 
 <br>
 
-We are a research and product-driven cybersecurity ecosystem. Not a course platform. Not a hacking brand.
+## What We Build
 
-We build **tools**, **intelligence systems**, **hands-on labs**, and **security research** that work in the real world — for professionals, researchers, and serious learners.
+<br>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Cybersecurity Tools</strong><br/><br/>
+      Recon utilities, scanners, dashboards, threat monitoring, and automation built for security professionals.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Digital Intelligence</strong><br/><br/>
+      OSINT platforms, footprint analysis, public data correlation, and investigation workflows.
+    </td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Labs and Simulations</strong><br/><br/>
+      Realistic environments for web, API, network, blue team, and incident response skill development.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Research and Publications</strong><br/><br/>
+      Vulnerability research, threat analysis, attack chain breakdowns, and technical security findings.
+    </td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>CTFs and Community</strong><br/><br/>
+      Capture The Flag events, research competitions, and university-level hackathons.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Ethics, Always</strong><br/><br/>
+      Responsible disclosure. Legal compliance. Research integrity. Non-negotiable.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## How We Work
+
+<br>
+
+We follow a product-first mindset. Every tool, lab, and piece of research exists because someone needed it — not because it looked good in a pitch deck.
+
+We work at the intersection of offensive research, digital intelligence, and defensive tooling. The goal is always the same: **practical security, not performative security.**
 
 <br>
 
@@ -36,37 +92,8 @@ We build **tools**, **intelligence systems**, **hands-on labs**, and **security 
 
 <div align="center">
 
-### What We Build
-
-</div>
-
-<br>
-
-**Cybersecurity Tools**
-&nbsp;&nbsp;&nbsp;Recon utilities, scanners, dashboards, threat monitoring, and automation for security professionals.
-
-**Digital Intelligence**
-&nbsp;&nbsp;&nbsp;OSINT platforms, footprint analysis, public data correlation, and investigation workflows.
-
-**Labs and Simulations**
-&nbsp;&nbsp;&nbsp;Realistic environments for web, API, network, blue team, and incident response skill development.
-
-**Research and Publications**
-&nbsp;&nbsp;&nbsp;Vulnerability research, threat analysis, attack chain breakdowns, and technical security findings.
-
-**CTFs and Community**
-&nbsp;&nbsp;&nbsp;Capture The Flag events, research competitions, and university hackathons.
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-*All tools and research are for authorized security testing, education, and professional use only.*
-*Unauthorized use is illegal. Responsible disclosure is non-negotiable.*
+*All tools and research are intended for authorized security testing, education, and professional use only.*<br/>
+*Unauthorized use is illegal. CyberEthic does not condone misuse.*
 
 <br>
 
