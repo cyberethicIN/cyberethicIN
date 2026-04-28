@@ -29,46 +29,14 @@ built for the real world, not for optics.
 
 <br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Cybersecurity Tools</strong><br/><br/>
-      Recon utilities, scanners, dashboards, threat monitoring, and automation built for security professionals.
-    </td>
-    <td width="50%" valign="top">
-      <strong>Digital Intelligence</strong><br/><br/>
-      OSINT platforms, footprint analysis, public data correlation, and investigation workflows.
-    </td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Labs and Simulations</strong><br/><br/>
-      Realistic environments for web, API, network, blue team, and incident response skill development.
-    </td>
-    <td width="50%" valign="top">
-      <strong>Research and Publications</strong><br/><br/>
-      Vulnerability research, threat analysis, attack chain breakdowns, and technical security findings.
-    </td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>CTFs and Community</strong><br/><br/>
-      Capture The Flag events, research competitions, and university-level hackathons.
-    </td>
-    <td width="50%" valign="top">
-      <strong>Ethics, Always</strong><br/><br/>
-      Responsible disclosure. Legal compliance. Research integrity. Non-negotiable.
-    </td>
-  </tr>
-</table>
+| | |
+|:---|:---|
+| **Cybersecurity Tools** | Recon, scanning, threat monitoring, and security automation for professionals |
+| **Digital Intelligence** | OSINT platforms, footprint analysis, and investigation workflows |
+| **Labs and Simulations** | Realistic web, API, network, and incident response environments |
+| **Research and Publications** | Vulnerability research, threat analysis, and attack chain breakdowns |
+| **CTFs and Community** | Capture The Flag events, research competitions, university hackathons |
+| **Ethics, Always** | Responsible disclosure. Legal compliance. Research integrity. Non-negotiable |
 
 <br>
 
