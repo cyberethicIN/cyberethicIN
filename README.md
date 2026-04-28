@@ -2,99 +2,76 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=CyberEthic;Applied+Cybersecurity;Digital+Intelligence;Security+Research" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=600&lines=CyberEthic;Applied+Cybersecurity;Digital+Intelligence;Security+Research" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=CyberEthic;Applied+Cybersecurity;Digital+Intelligence;Security+Research" />
-</picture>
+# CYBERETHIC
 
 <br>
 
-<p><i>Everything is hackable. Security is often an illusion.</i></p>
+**Everything is hackable. Security is often an illusion.**
 
 <br>
 
-[![Website](https://img.shields.io/badge/cyberethic.in-000?style=for-the-badge&logo=vercel&logoColor=white)](https://cyberethic.in)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/company/cyberethic)&nbsp;
-[![Email](https://img.shields.io/badge/Contact-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hello@cyberethic.in)
+*Applied Cybersecurity · Digital Intelligence · Security Research*
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=cyberethicIN&style=flat-square&color=3b82f6&label=profile+views)
+[![Website](https://img.shields.io/badge/cyberethic.in-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cyberethic.in)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/company/cyberethic)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/hello@cyberethic.in-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hello@cyberethic.in)
+
+<br>
 
 </div>
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberethicIN&theme=github-compact&hide_border=true&bg_color=00000000&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=3b82f620" width="100%" />
-
----
-
-We build **tools**, **intelligence systems**, **labs**, and **security research** for real-world applications.
-
-Not a course platform. Not a generic hacking brand. A product-driven engineering organization working at the intersection of offensive research, digital intelligence, and defensive tooling.
-
 <br>
 
-## What we build
+We are a research and product-driven cybersecurity ecosystem. Not a course platform. Not a hacking brand.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h4>Cybersecurity Tools</h4>
-Recon utilities, scanners, dashboards, threat monitoring, and security automation built for professionals.
-</td>
-<td width="50%" valign="top">
-<h4>Digital Intelligence</h4>
-OSINT platforms, public data correlation, footprint analysis, and investigation workflows.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4>Labs and Simulations</h4>
-Realistic hands-on environments for web, API, network, blue team, and incident response scenarios.
-</td>
-<td width="50%" valign="top">
-<h4>Research and Publications</h4>
-Vulnerability research, threat analysis, attack chain breakdowns, and technical security findings.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4>CTFs and Community</h4>
-Capture The Flag events, research competitions, and university-level hackathons.
-</td>
-<td width="50%" valign="top">
-<h4>Ethics, always</h4>
-Responsible disclosure. Legal compliance. Research integrity. These are not optional.
-</td>
-</tr>
-</table>
+We build **tools**, **intelligence systems**, **hands-on labs**, and **security research** that work in the real world — for professionals, researchers, and serious learners.
 
 <br>
 
 ---
+
+<br>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cyberethicIN&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e&hide_rank=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberethicIN&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e&hide_rank=true" width="48%" />
-</picture>
+### What We Build
 
 </div>
 
 <br>
 
+**Cybersecurity Tools**
+&nbsp;&nbsp;&nbsp;Recon utilities, scanners, dashboards, threat monitoring, and automation for security professionals.
+
+**Digital Intelligence**
+&nbsp;&nbsp;&nbsp;OSINT platforms, footprint analysis, public data correlation, and investigation workflows.
+
+**Labs and Simulations**
+&nbsp;&nbsp;&nbsp;Realistic environments for web, API, network, blue team, and incident response skill development.
+
+**Research and Publications**
+&nbsp;&nbsp;&nbsp;Vulnerability research, threat analysis, attack chain breakdowns, and technical security findings.
+
+**CTFs and Community**
+&nbsp;&nbsp;&nbsp;Capture The Flag events, research competitions, and university hackathons.
+
+<br>
+
 ---
 
-> All tools, labs, and research published here are intended for **authorized security testing, education, and professional use only.**
-> Unauthorized use against systems you do not own or have explicit permission to test is illegal. CyberEthic does not condone misuse.
-
----
+<br>
 
 <div align="center">
-<sub>Applied Cybersecurity &nbsp;·&nbsp; Digital Intelligence &nbsp;·&nbsp; Research Platform &nbsp;·&nbsp; India</sub>
-</div>
+
+*All tools and research are for authorized security testing, education, and professional use only.*
+*Unauthorized use is illegal. Responsible disclosure is non-negotiable.*
 
 <br>
+
+<sub>India &nbsp;·&nbsp; cyberethic.in &nbsp;·&nbsp; hello@cyberethic.in</sub>
+
+<br>
+
+</div>
